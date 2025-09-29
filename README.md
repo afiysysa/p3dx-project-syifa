@@ -28,12 +28,11 @@ Setiap folder di dalam repositori ini mewakili sebuah proyek atau studi kasus ya
 
 ### 3. Pengukuran Odometri (Odometry Measurement)
 - **Folder**: `[./odometry/](odometry/)`
-- **Deskripsi**: *(Akan datang)* Implementasi perhitungan odometri untuk mengestimasi posisi robot hanya berdasarkan data perputaran roda.
+- **Deskripsi**: Implementasi perhitungan odometri untuk mengestimasi posisi robot hanya berdasarkan data perputaran roda.
 
-### 4. Pembacaan Sensor (Sensor Reading)
-- **Folder**: `[./sensors/](sensors/)`
-- **Deskripsi**: *(Akan datang)* Proyek untuk mengambil dan memproses data dari sensor virtual pada P3DX, seperti sensor ultrasonik atau vision sensor.
-
+### 4. Transformasi posisi
+- **Folder**: `[./trans/](transformasi/)`
+- **Deskripsi**: Project ini dapat mengubah ux uy uz ke dalam posisi universal
 ---
 
 ## Instalasi dan Setup Umum
